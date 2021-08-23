@@ -1,0 +1,11 @@
+---
+coins:
+  - value: 100
+    count: 5
+  - value: 200
+    count: 5
+  - value: 25
+    count: 10
+  - value: 50
+    count: 1
+

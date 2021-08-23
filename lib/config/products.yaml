@@ -1,0 +1,17 @@
+---
+products:
+  - name: Nuts
+    price: 450
+    count: 5
+  - name: Cola
+    price: 300
+    count: 2
+  - name: Water
+    price: 150
+    count: 8
+  - name: Chips
+    price: 350
+    count: 4
+  - name: Toy
+    price: 825
+    count: 1
